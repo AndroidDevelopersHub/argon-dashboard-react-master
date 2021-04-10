@@ -1,5 +1,0 @@
----
-deployment:
-  tasks:
-    - export DEPLOYMENT=/home/mixcweng/repositories/uc-backend/
-    - / $DEPLOYPATH
